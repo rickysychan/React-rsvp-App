@@ -4,4 +4,4 @@ An RSVP application to keep track of who is coming and who is not, complete with
 
 This Application was built purely on React 
 
-![This is the registration page](https://github.com/rickysychan/React-scoreboard/blob/master/imgs/Screen%20Shot%202018-05-20%20at%2010.16.25%20PM.png)
+![This is the Front Page](https://github.com/rickysychan/React-rsvp-App/blob/master/imgs/front.png)
