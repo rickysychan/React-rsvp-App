@@ -10,4 +10,4 @@ This Application was built purely on React
 ## How to Use
 
 1) npm install
-2) npm run
+2) npm start
